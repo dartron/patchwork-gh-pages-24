@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png"
+name: "Dartron"
+title: "Learning static pages"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
@@ -13,15 +13,10 @@ Adrian is available for projects on a case by case basis. Some of the services h
 #### Strategic Consulting
 * Competitive analysis
 * Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
 
 #### Management Consulting
 * Oranization structuring
 * Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
 
 #### Education Design and Management
 * Course development
